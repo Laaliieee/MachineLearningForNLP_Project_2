@@ -1,5 +1,5 @@
 streamlit
 pandas
 nltk
-berttopic==0.16.4
+bertopic==0.16.4
 sentence-transformers
