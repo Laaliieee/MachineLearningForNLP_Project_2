@@ -1,0 +1,6 @@
+streamlit
+pandas
+nltk
+bertopic==0.16.4
+sentence-transformers
+openpyxl
